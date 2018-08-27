@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Create Components from CLI</strong></h1>
+<h1 align="center"><strong>Create Component (CROMP)</strong></h1>
 
 <br />
 
